@@ -1,2 +1,2 @@
-# auto-aws-with-python
-Repository for Automating 
+# auto-aws-with-python version 2.0
+Repository for Automating AWS
